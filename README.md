@@ -2,9 +2,6 @@
 
 A lightweight, fully playable **3D car racing game** that runs directly in your browser. Built with **Three.js** in a single HTML file.
 
-![Game Screenshot](https://via.placeholder.com/800x400?text=3D+Car+Racing+Game)  
-*(Add a real screenshot here later for better visuals)*
-
 ## 🎮 Live Demo
 **[Play Now →](https://grok-3d-car-racing-game.onrender.com/)**
 
